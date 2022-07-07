@@ -1,0 +1,161 @@
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe.config
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\App.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.cache
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.lref
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.g.resources
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.Properties.Resources.resources
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.GenerateResource.cache
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.exe
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\Logged.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\Logged.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\Player.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\Player.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.CopyComplete
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\App.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\Simple Styles.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csprojAssemblyReference.cache
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.g.cs
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.baml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.dll
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.xml
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager.mdf
+F:\Проекты от VS\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager_log.ldf
+F:\Проекты от VS\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_Content.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager.mdf
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager_log.ldf
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe.config
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.dll
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.xml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\Simple Styles.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\GroupTemplate.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\Logged.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\Player.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\App.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_Content.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.cache
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.lref
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\App.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\Logged.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\Player.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\GroupTemplate.baml
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.g.resources
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.Properties.Resources.resources
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.GenerateResource.cache
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.CopyComplete
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.exe
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.pdb
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Проекты от VS\Копия KursWork\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csprojAssemblyReference.cache
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager.mdf
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\DataBases\DatabaseManager_log.ldf
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe.config
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.exe
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\WpfKursWork.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.dll
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\ControlzEx.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MahApps.Metro.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignColors.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.MahApps.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Azure.CognitiveServices.Language.SpellCheck.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\bin\Debug\Newtonsoft.Json.xml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\Simple Styles.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\GroupTemplate.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\Logged.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\Player.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\App.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_Content.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.cache
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork_MarkupCompile.lref
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\App.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\AdminWindow.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\GroupTemplate.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\LogAndPas.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\Logged.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\MainWindow.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\Player.baml
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.g.resources
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.Properties.Resources.resources
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.GenerateResource.cache
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.csproj.CopyComplete
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.exe
+F:\Проекты от VS\Копия KursWork\New Копия\WpfKursWork\WpfKursWork\obj\Debug\WpfKursWork.pdb

@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfKursWork.Logged"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfKursWork"
+        mc:Ignorable="d"
+        Title="Ты готов к этому безумию?" Height="413" Width="827.76"
+        ResizeMode="NoResize" BorderBrush="DarkGray">
+    <Grid Margin="0,0,-6.4,-1.461">
+        <Grid.Background>
+            <ImageBrush ImageSource="Pictures/Youareready.jpg" TileMode="Tile" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBlock 
+            HorizontalAlignment="Left" 
+            TextWrapping="Wrap" 
+            Text="Yo, you are ready?" 
+            VerticalAlignment="Top" 
+            Height="79.56" 
+            Width="389" 
+            Margin="247,88,0,0" 
+            FontSize="48" 
+            FontFamily="Informal Roman" 
+            Foreground="#FFF4FF00"/>
+        <Button Content="Yeah, amigo" HorizontalAlignment="Left" Height="75.6" Margin="85,236.4,0,0" VerticalAlignment="Top" Width="268.8" FontSize="48" FontFamily="Chiller" FontWeight="Bold" TextOptions.TextHintingMode="Animated" BorderBrush="#FF994444" Click="ClickOpenAdminWindow">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="No, I'm already at a concert" HorizontalAlignment="Left" Height="75.6" Margin="488.1,236.4,0,0" VerticalAlignment="Top" Width="264" FontSize="24" FontFamily="Chiller" Click="ClickBackMainWindow">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00FFE8"/>
+                    <GradientStop Color="#FF00E8A1" Offset="0.087"/>
+                    <GradientStop Color="#FF00D392" Offset="0.167"/>
+                    <GradientStop Color="#FF00AD66" Offset="0.314"/>
+                    <GradientStop Color="#FF008127" Offset="0.485"/>
+                    <GradientStop Color="#FF1E6000" Offset="0.615"/>
+                    <GradientStop Color="#FF341800" Offset="0.789"/>
+                    <GradientStop Color="#FF1C0000" Offset="0.886"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>
